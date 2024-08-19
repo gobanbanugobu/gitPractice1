@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitPractice1/static/css/main.9924fa8a.css",
+    "main.js": "/gitPractice1/static/js/main.532e7909.js",
+    "static/js/453.724f3f2e.chunk.js": "/gitPractice1/static/js/453.724f3f2e.chunk.js",
+    "static/media/img2.webp": "/gitPractice1/static/media/img2.663a309b119601f6fc13.webp",
+    "static/media/logo.svg": "/gitPractice1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitPractice1/index.html",
+    "main.9924fa8a.css.map": "/gitPractice1/static/css/main.9924fa8a.css.map",
+    "main.532e7909.js.map": "/gitPractice1/static/js/main.532e7909.js.map",
+    "453.724f3f2e.chunk.js.map": "/gitPractice1/static/js/453.724f3f2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9924fa8a.css",
+    "static/js/main.532e7909.js"
+  ]
+}
